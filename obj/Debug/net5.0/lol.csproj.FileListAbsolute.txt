@@ -1,0 +1,16 @@
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.exe
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.deps.json
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.runtimeconfig.json
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.runtimeconfig.dev.json
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.dll
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\ref\lol.dll
+C:\Users\suzuk\projects\lol\bin\Debug\net5.0\lol.pdb
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.csprojAssemblyReference.cache
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.AssemblyInfoInputs.cache
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.AssemblyInfo.cs
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.dll
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\ref\lol.dll
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.pdb
+C:\Users\suzuk\projects\lol\obj\Debug\net5.0\lol.genruntimeconfig.cache
